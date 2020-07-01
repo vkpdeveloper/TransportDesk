@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "59352069179",
+    "firebase_url": "https://logisticsuber-6dd8d.firebaseio.com",
+    "project_id": "logisticsuber-6dd8d",
+    "storage_bucket": "logisticsuber-6dd8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59352069179:android:3a9232059b5446cdb4d81e",
+        "android_client_info": {
+          "package_name": "com.example.driverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59352069179-vio2va6tb8dhkguh3htrg65odnaqls5i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.driverapp",
+            "certificate_hash": "3b85b7f971f1fede5c460f0ab4e8085cfaf4f1a1"
+          }
+        },
+        {
+          "client_id": "59352069179-ap05sauklibl7o614voqn3qiijfmgdoa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNXz8dJDnGLy-u5SltU4Ec2MsH6YM_oJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59352069179-ap05sauklibl7o614voqn3qiijfmgdoa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "59352069179-nrf13gg3q7oium0ok7a9gb1q222otu4l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.franko.transport"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59352069179:android:0c75f0df34f8ba28b4d81e",
+        "android_client_info": {
+          "package_name": "com.example.rideapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59352069179-m30e5s5bttj4q0l3c2utvl8vfld2m9lf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rideapp",
+            "certificate_hash": "f55192970d7660b17f49e623a30d5174dacab964"
+          }
+        },
+        {
+          "client_id": "59352069179-df11iualr5ve6gl34m3fhlrlebeqnp9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rideapp",
+            "certificate_hash": "d41fe99e8cbbb0af9d5176fb2a7518fdc38bcc46"
+          }
+        },
+        {
+          "client_id": "59352069179-7gdmt4juhushatl4kbg3dpbfrhl9numc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rideapp",
+            "certificate_hash": "3b85b7f971f1fede5c460f0ab4e8085cfaf4f1a1"
+          }
+        },
+        {
+          "client_id": "59352069179-ap05sauklibl7o614voqn3qiijfmgdoa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNXz8dJDnGLy-u5SltU4Ec2MsH6YM_oJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59352069179-ap05sauklibl7o614voqn3qiijfmgdoa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "59352069179-nrf13gg3q7oium0ok7a9gb1q222otu4l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.franko.transport"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

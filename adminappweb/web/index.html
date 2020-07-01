@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta content="IE=Edge" http-equiv="X-UA-Compatible" />
+    <meta name="description" content="A new Flutter project." />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta name="apple-mobile-web-app-title" content="adminappweb" />
+    <link rel="apple-touch-icon" href="icons/Icon-192.png" />
+    <link rel="shortcut icon" type="image/png" href="favicon.png" />
+    <title>ADMIN WEB</title>
+    <link rel="manifest" href="manifest.json" />
+  </head>
+  <body>
+    <script>
+      if ("serviceWorker" in navigator) {
+        window.addEventListener("load", function () {
+          navigator.serviceWorker.register("flutter_service_worker.js");
+        });
+      }
+    </script>
+    <script src="https://www.gstatic.com/firebasejs/7.15.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.15.1/firebase-auth.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.15.1/firebase-firestore.js"></script>
+    <script>
+      var firebaseConfig = {
+        apiKey: "AIzaSyA5k8Ge_K7h9m4sECXoK8L3dC6mKMVR9tI",
+        authDomain: "logisticsuber-6dd8d.firebaseapp.com",
+        databaseURL: "https://logisticsuber-6dd8d.firebaseio.com",
+        projectId: "logisticsuber-6dd8d",
+        storageBucket: "logisticsuber-6dd8d.appspot.com",
+        messagingSenderId: "59352069179",
+        appId: "1:59352069179:web:f0381248817cba06b4d81e",
+        measurementId: "G-K1F7L45BZP",
+      };
+      firebase.initializeApp(firebaseConfig);
+    </script>
+    <script src="main.dart.js" type="application/javascript"></script>
+  </body>
+</html>

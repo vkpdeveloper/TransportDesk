@@ -1,0 +1,4 @@
+enum LocationView {
+  PICKUP,
+  DROP
+}

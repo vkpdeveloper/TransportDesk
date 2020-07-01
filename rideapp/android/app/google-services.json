@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "59352069179",
+    "firebase_url": "https://logisticsuber-6dd8d.firebaseio.com",
+    "project_id": "logisticsuber-6dd8d",
+    "storage_bucket": "logisticsuber-6dd8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59352069179:android:0c75f0df34f8ba28b4d81e",
+        "android_client_info": {
+          "package_name": "com.example.rideapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59352069179-7gdmt4juhushatl4kbg3dpbfrhl9numc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rideapp",
+            "certificate_hash": "3b85b7f971f1fede5c460f0ab4e8085cfaf4f1a1"
+          }
+        },
+        {
+          "client_id": "59352069179-ap05sauklibl7o614voqn3qiijfmgdoa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNXz8dJDnGLy-u5SltU4Ec2MsH6YM_oJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59352069179-ap05sauklibl7o614voqn3qiijfmgdoa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

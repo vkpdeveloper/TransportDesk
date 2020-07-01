@@ -1,0 +1,36 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+  match /vendor/{vendorID} {
+    	allow read: if true;
+  }
+  match /trucks/{document=**} {
+  	allow read: if true;
+  }
+  match /driverSignup/{driver} {
+  	allow write: if request.resource.data.authKey == "ourAuthkey";
+  }
+  match /admin/info {
+  	allow read, write: if checkIfAdmin();
+  }
+    match /allOrders/{order} {
+      allow read, write: if request.auth.uid != null;
+    }
+    match /user/{user} {
+      allow read, write: if request.auth.uid != null;
+    }
+    
+    match /wallet/{wallet} {
+      allow read, write: if request.auth.uid != null;
+    }
+    
+    match /trucks/{truck} {
+      allow read, write: if request.auth.uid != null;
+    }
+  }
+  
+  function checkIfAdmin() {
+  	return request.auth.token.email == "androcomputerhackes@gmail.com" && request.auth.token.email_verified == true;
+  }
+  
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../../../../flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.13.5/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_web-0.1.1+2/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter/.pub-cache/hosted/pub.dartlang.org/connectivity-0.4.8+6/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_macos-0.1.0+3/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.16.0/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-0.1.2/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.4+3/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-0.1.1+2/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-6.0.15/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-3.1.5/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.8/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-4.0.1/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocation-1.1.2/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter/.pub-cache/hosted/pub.dartlang.org/google_api_availability-2.0.4/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.28+1/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.6.6+4/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter/.pub-cache/hosted/pub.dartlang.org/location_permissions-2.0.5/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.9/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-0.0.4+3/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter/.pub-cache/hosted/pub.dartlang.org/permission-0.1.7/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter/.pub-cache/hosted/pub.dartlang.org/share-0.6.4+3/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter/.pub-cache/hosted/pub.dartlang.org/streams_channel-0.3.0/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.4.10/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-0.0.1+7/android" />
+            <option value="$PROJECT_DIR$/../../../../flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-0.1.1+6/android" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

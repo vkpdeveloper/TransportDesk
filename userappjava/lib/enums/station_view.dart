@@ -1,0 +1,4 @@
+enum StationView {
+  LOCAL,
+  OUTSIDE
+}
